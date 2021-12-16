@@ -4,7 +4,7 @@ will use web HID api in a pwa to collect usb data which will be intercepted by a
 
 Goals:
 - allow configuration of all buttons and side scroll wheel
-- work without using enabling dev mode
+- work without enabling dev mode
 - auto start on boot
 - be non intrusive
 - have low latency, low overhead
