@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Logitech MX Master 3 Driver",
+    "version": "0.1.0",
+    "description": "Allows you to configure MX Master 3's extra buttons on chromiumos",
+    "icons": {},
+    "permissions": [
+        "webRequest",
+        "https://localhost:5500/*"
+    ],
+    "background": {
+        "service_worker": "index.js"
+    }
+}
